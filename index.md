@@ -18,6 +18,7 @@ A casual gacha game where people roll their wallets away.</br>
 [**Link**](http://somegachagame.com.au/)
 
 ## Contact
+If you have any enquiries or are in need of assistance then please get in touch at [korick.0005@gmail.com](mailto:korick.0005@gmail.com)
 
 ## Welcome to GitHub Pages
 
