@@ -1,8 +1,17 @@
 # RK Design
-1. Home
-2. Game 1
-3. Game 2
-4. Contact
+
+1. Anpit
+2. Game 1 - Some game
+3. Contact
+
+## About
+Rick Ko is a passiionate blablablablablablablablabalaba
+
+## Some game
+A casual gacha game where people roll their wallets away.</br>
+[**Link**](http://somegachagame.com.au/)
+
+## Contact
 
 ## Welcome to GitHub Pages
 
