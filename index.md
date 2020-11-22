@@ -1,6 +1,8 @@
+<img align="centre" width="150.25" height="225" src="https://raw.githubusercontent.com/KoRick95/rkdesign/main/RickKo.png" alt="This is me">
+
 # RK Design
 
-1. Anpit
+1. About
 2. Game 1 - Some game
 3. Contact
 
