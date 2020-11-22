@@ -14,7 +14,7 @@ title: Portfolio
 Rick Ko is a passiionate blablablablablablablablabalaba
 
 ## Some game
-A casual gacha game where people roll their wallets away. </br>
+A casual gacha game where people roll their wallets away. <br>
 [**Link**](http://somegachagame.com.au/)
 
 ## Contact
