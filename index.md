@@ -8,7 +8,7 @@ title: Rick Ko
 A graduate game designer with a passion for in depth economy design and UX design.
 
 <h2>Projects</h2>
-<img src="https://github.com/KoRick95/sliceoflifeweb/blob/main/SliceofLife.jpg?raw=true">
+<img align="centre" width="992.2" height="1403.2" src="https://github.com/KoRick95/sliceoflifeweb/blob/main/SliceofLife.jpg?raw=true">
 <a href="http://sliceoflife.com.au/"> Slice of Life</a>
 
 A casual gacha game where people roll their wallets away. <br>
