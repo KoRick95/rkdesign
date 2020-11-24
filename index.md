@@ -3,9 +3,6 @@
     <title>Rick Ko</title>
   </head>
   <body>
-   stuff
-  </body>
-</html>
 
 <img align="centre" width="150.25" height="225" src="https://raw.githubusercontent.com/KoRick95/rkdesign/main/RickKo.png" alt="This is me">
 
@@ -19,3 +16,6 @@ Slice of Life is a third person creature creation simulator which aims to engage
 
 <h2>Contact</h2>
 If you have any enquiries or are in need of assistance then please get in touch at [korick.0005@gmail.com](mailto:korick.0005@gmail.com)
+
+  </body>
+</html>
