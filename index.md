@@ -1,6 +1,11 @@
----
-title: Rick Ko
----
+<html>
+  <head>
+    <title>Rick Ko</title>
+  </head>
+  <body>
+   stuff
+  </body>
+</html>
 
 <img align="centre" width="150.25" height="225" src="https://raw.githubusercontent.com/KoRick95/rkdesign/main/RickKo.png" alt="This is me">
 
