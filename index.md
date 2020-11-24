@@ -14,7 +14,9 @@ A graduate game designer with a passion for in depth economy design and UX desig
 
 <h2>Projects</h2>
 <img align="centre" width="496.1" height="701.6" src="https://github.com/KoRick95/sliceoflifeweb/blob/main/SliceofLife.jpg?raw=true">
+<br>
 <a href="http://sliceoflife.com.au/"> Slice of Life</a>
+<br>
 Slice of Life is a third person creature creation simulator which aims to engage player creativity at its core. Players separate and use parts of familiar creatures such as fish and snakes in order to create bipedal creatures consisting of said parts. The goal of the project is to engage and provide a fun experience for the target persona, which has a penchant for exploring every possibility in a game. 
 
 <h2>Contact</h2>
