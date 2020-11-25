@@ -19,6 +19,8 @@ A graduate game designer with a passion for in depth economy design and UX desig
 
 <i>Slice of Life</i> is a third person creature creation simulation where you play as a cat wizard appeasing the demands of Aristo-cats to make Frankenstein-esque monsters while trying to find what their own purpose in the world is.
 
+<h3><a href="https://armgarr.itch.io/detective-saga-the-creswin-widower/"> Detective Saga: The Creswin Widower</a> <br> </h3>
+
 <h2>Contact</h2>
 If you have any enquiries or are in need of assistance then please get in touch at <a href="mailto:korick.0005@gmail.com"> korick.0005@gmail.com</a>
 
