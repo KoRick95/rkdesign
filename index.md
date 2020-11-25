@@ -14,8 +14,9 @@ Title: Rick Ko
 A graduate game designer with a passion for in depth economy design and UX design.
 
 <h2>Projects</h2>
+<h3><a href="http://sliceoflife.com.au/"> Slice of Life</a> <br> </h3>
 <img align="centre" width="496.1" height="701.6" src="https://github.com/KoRick95/sliceoflifeweb/blob/main/SliceofLife.jpg?raw=true" alt="Slice of Life"> <br>
-<a href="http://sliceoflife.com.au/"> Slice of Life</a> <br>
+
 <i>Slice of Life</i> is a third person creature creation simulation where you play as a cat wizard appeasing the demands of Aristo-cats to make Frankenstein-esque monsters while trying to find what their own purpose in the world is.
 
 <h2>Contact</h2>
