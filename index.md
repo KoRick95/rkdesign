@@ -8,7 +8,7 @@ Title: Rick Ko
   </head>
   <body>
 
-<img align="centre" width="150.25" height="225" src="https://raw.githubusercontent.com/KoRick95/rkdesign/main/RickKo.png" alt="This is me">
+<img align="centre" width="150.25" height="225" src="https://raw.githubusercontent.com/KoRick95/rkdesign/main/rick_ko2.jpg" alt="This is me">
 
 <h1>Rick Ko</h1>
 A graduate game designer with a passion for in depth economy design and UX design.
