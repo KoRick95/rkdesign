@@ -27,8 +27,8 @@ A graduate game designer with a passion for in depth economy design and UX desig
 <img align="centre" src="" alt="Deja Brew">
 <i>Deja Brew</i> is a 2.5D platformer featuring physics based air propulsion. Use a compressed air gun to propel yourself through the air, or to blow hazardous objects away!
 
-<h3><a href="" Masquerade</a> <br> </h3>
-<img align="centre" src="https://koshifu.itch.io/masquerade" alt="Masquerade"
+<h3><a href="https://koshifu.itch.io/masquerade" Masquerade</a> <br> </h3>
+<img align="centre" src="" alt="Masquerade"
 <i>Masquerade</i> is a walking simulator exploring an anxious and depressed individual's experience in a popular friend's party without close friends. The game slightly touches on social aspects which affect the way individuals react based on anxiety and ways to relax.
 
 <h2>Contact</h2>
