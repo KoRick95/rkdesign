@@ -19,6 +19,10 @@ A graduate game designer with a passion for in depth economy design and UX desig
 
 <i>Slice of Life</i> is a third person creature creation simulation where you play as a cat wizard appeasing the demands of Aristo-cats to make Frankenstein-esque monsters while trying to find what their own purpose in the world is. My contribution as the economy and UX designer involved designing and implementing UI which was intuitive and understandable to players on first impression, as well as the general player flow through the meta game loop.
 
+<h3><a href="https://koshifu.itch.io/vr-carnival"> VR Carnival</a> <br> </h3>
+<img align="centre" src="https://img.itch.zone/aW1hZ2UvODM2NjM1LzQ2ODkxNTQucG5n/original/HnmrJE.png" alt="VR Carnival">
+<i>VR Carnival</i> is a small VR game set in an apocalyptic carnival setting. Players fling darts at a board before time runs out to obtain prizes.
+
 <h3><a href="https://armgarr.itch.io/detective-saga-the-creswin-widower"> Detective Saga: The Creswin Widower</a> <br> </h3>
 <img align="centre" src="https://img.itch.zone/aW1hZ2UvNjQ5NTA1LzM0ODI5ODEucG5n/original/jPT0lg.png" alt="Detective Saga: The Creswin Widower">
 <i>Detective Saga: The Creswin Widower</i> is a small demo of a point and click adventure game implementing some visual novel style story telling. My contribution as a technical designer and programming lead involved all the coding in C# and the creation of a system which read text from .txt files to output within text the game.
