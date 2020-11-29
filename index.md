@@ -29,6 +29,7 @@ A graduate game designer with a passion for in depth economy design and UX desig
 
 <h3><a href="https://koshifu.itch.io/deja-brew"> Deja Brew</a> <br> </h3>
 <img align="centre" src="https://img.itch.zone/aW1nLzQ2NjY4ODMucG5n/315x250%23c/04hUy0.png" alt="Deja Brew">
+<img src="https://img.itch.zone/aW1hZ2UvODMyOTA0LzQ2NjcwNzQucG5n/original/3qpwrt.png" alt="Deja Brew in-game>
 <i>Deja Brew</i> is a 2.5D platformer featuring physics based air propulsion. Use a compressed air gun to propel yourself through the air, or to blow hazardous objects away!
 
 <h3><a href="https://koshifu.itch.io/masquerade"> Masquerade</a> <br> </h3>
